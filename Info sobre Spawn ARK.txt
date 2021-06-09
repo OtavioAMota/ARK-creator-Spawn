@@ -1,0 +1,30 @@
+//PARA ADICIONAR UM SPAWN:
+	//variaveis:
+		String Nome_Local;
+		String Name_Tag;
+		String ID_Dino;
+		float Peso;//Chance de spawn
+		float Max_Peso;//Chance maxima de spawn
+	
+	ConfigAddNPCSpawnEntriesContainer=(NPCSpawnEntriesContainerClassString="Nome_Local_C",
+	NPCSpawnEntries=((AnEntryName="Name_tag",EntryWeight=Peso,NPCsToSpawnStrings=("ID_Dino"))),
+	NPCSpawnLimits=((NPCClassString="ID_Dino",MaxPercentageOfDesiredNumToAllow=Max_Peso)))
+	
+//PARA SUBSTITUIR UM DINO:
+	
+	NPCReplacements = ( FromClassName = "ID_Dino", ToClassName = "ID_Dino")
+
+	Exemplo:
+	
+	Para substituir todos os trikes por dodos, seria usado:
+	
+	NPCReplacements = (FromClassName = "Trike_Character_BP_C", ToClassName = "Dodo_Character_BP_C")
+	
+//PARA REMOVER UM DINO
+	
+	NPCReplacements = (FromClassName = "ID_Dino")
+	
+	Exemplo:
+	Para remover o Pegomastax:
+	NPCReplacements = (FromClassName = "Pegomastax_Character_Class" )
+
