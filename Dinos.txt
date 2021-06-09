@@ -1,0 +1,46 @@
+DinoSpawnEntriesBeach:
+Hyaenodon_Character_BP_C Hyaenodon
+Toad_Character_BP_C Toad
+Diplocaulus_Character_BP_C Diplocaulus
+DungBeetle_Character_BP_C Bettle
+Dragonfly_Character_BP_C Dragonfly
+Monkey_Character_BP_C Monkey
+
+DinoSpawnEntriesDamiensAtoll:
+GasBags_Character_BP_C GasBags
+Gacha_Character_BP_C Gacha
+Moth_Character_BP_C Moth
+
+DinoSpawnEntriesMonsterIsland:
+Mantis_Character_BP_C Mantis
+RockGolem_Character_BP_C RockElemental
+
+DinoSpawnEntriesSnow:
+Yeti_Character_BP_C Bigfoot
+Owl_Character_BP_C Owl
+Shapeshifter_Small_Character_BP_C Gremlin
+Shapeshifter_Large_Character_BP_C Bigly
+Scout_Character_BP_C Scout
+IceGolem_Character_BP_C RockElemental
+IceJumper_Character_BP_C Managarmr
+
+DinoSpawnEntriesGrassland:
+LanternPug_Character_BP_C Pug
+Gacha_Character_BP_C Gacha
+Basilisk_Character_BP_C Basilisk
+BogSpider_Character_BP_C Bloodstalker
+
+DinoSpawnEntriesJungle:
+Spindles_Character_BP_C Velonasaur
+CaveWolf_Character_BP_C CaveWolf
+BogSpider_Character_BP_C Bloodstalker
+
+DinoSpawnEntries_InlandWater:
+Crab_Character_BP_C CaveCrab
+
+DinoSpawnEntriesMountain:
+Griffin_Character_BP_C Griffin
+
+DinoSpawnEntriesRedwoods:
+MoleRat_Character_BP_C MoleRat
+LanternGoat_Character_BP_C Lantern Goat
