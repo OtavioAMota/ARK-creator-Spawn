@@ -1,0 +1,7 @@
+Ola!
+Topicos:
+*1-Como colocar as linhas de codigo:
+Encontre a pasta: .\ARK\ShooterGame\Saved\Config\WindowsNoEditor.
+Abra o Arquivo:Game.ini.
+Em baixo da linha:"[/Script/ShooterGame.ShooterGameMode]" coloque o seu codigo.
+Agora é so iniciar o jogo e testar!
